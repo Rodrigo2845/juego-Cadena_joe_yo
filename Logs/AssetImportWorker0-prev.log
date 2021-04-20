@@ -1,0 +1,918 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'es' Physical Memory: 8123 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\archivos\unity\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/archivos/unity/juego Cadena_joe_yo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65380
+Successfully changed project path to: D:/archivos/unity/juego Cadena_joe_yo
+D:/archivos/unity/juego Cadena_joe_yo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.75 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 1.88 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path D:/archivos/unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/archivos/unity/juego Cadena_joe_yo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   
+    VRAM:     1982 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/archivos/unity/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'D:/archivos/unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/archivos/unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56824
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/archivos/unity/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/archivos/unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001299 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.41 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in D:\archivos\unity\juego Cadena_joe_yo\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in D:\archivos\unity\juego Cadena_joe_yo\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.696 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Unloading 1571 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.3 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2013.
+Total: 2.268800 ms (FindLiveObjects: 0.202800 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.955900 ms  DeleteObjects: 0.069800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ARCADE - FREE Racing Car/Materials
+  artifactKey: Guid(7cd50ff664f941e4ab191d35f6582e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Materials using Guid(7cd50ff664f941e4ab191d35f6582e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88dee97de20842c974f5e96dfbfea2f9') in 0.007776 seconds
+  Import took 0.010239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.325820 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Blue.prefab
+  artifactKey: Guid(6dfc700a1205ddf49b448178a2b00e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Blue.prefab using Guid(6dfc700a1205ddf49b448178a2b00e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aba0d75796182118f0910b5363e69ac') in 0.422065 seconds
+  Import took 0.424919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Yellow.prefab
+  artifactKey: Guid(400ae1c92d3d7164c98601f4394b0931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Yellow.prefab using Guid(400ae1c92d3d7164c98601f4394b0931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e98c21f8fff27eaf4a471d8e98bd77') in 0.013159 seconds
+  Import took 0.015717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Carbon.prefab
+  artifactKey: Guid(0f7265637d2c58d49a57253b2879a946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Carbon.prefab using Guid(0f7265637d2c58d49a57253b2879a946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1866570ee8975448f31039e3bfd03a00') in 0.019178 seconds
+  Import took 0.021748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001900 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Gray.prefab
+  artifactKey: Guid(f8c4c684ae669b44b92b76f083b3d84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Gray.prefab using Guid(f8c4c684ae669b44b92b76f083b3d84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e39d09dd539c7238a7c1fbdf886775') in 0.020389 seconds
+  Import took 0.023490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Carbon.prefab
+  artifactKey: Guid(0f7265637d2c58d49a57253b2879a946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Carbon.prefab using Guid(0f7265637d2c58d49a57253b2879a946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1866570ee8975448f31039e3bfd03a00') in 0.011201 seconds
+  Import took 0.013455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Red.prefab
+  artifactKey: Guid(b471b549ed0cf0b42b15b41a16e07b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs/Free_Racing_Car_Red.prefab using Guid(b471b549ed0cf0b42b15b41a16e07b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18367cfc46cc714596e77cf3746fc40f') in 0.013414 seconds
+  Import took 0.016352 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003920 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in D:\archivos\unity\juego Cadena_joe_yo\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in D:\archivos\unity\juego Cadena_joe_yo\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.639 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Unloading 1538 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 74.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2026.
+Total: 2.013300 ms (FindLiveObjects: 0.179400 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.538800 ms  DeleteObjects: 0.250200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 222.401302 seconds.
+  path: Assets/Laptop/laptop.FBX
+  artifactKey: Guid(164019ee72ba6df4b934f413f2374e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop.FBX using Guid(164019ee72ba6df4b934f413f2374e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4a58212f50dcdd41c313812bc9a4f1') in 0.267330 seconds
+  Import took 0.270345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Laptop/laptop_d.tga
+  artifactKey: Guid(73580c47eab753b47ba9b9680de8f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop_d.tga using Guid(73580c47eab753b47ba9b9680de8f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91acdb67c5d2ffb17bb3cb045a22d2ca') in 0.077789 seconds
+  Import took 0.080953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Laptop/laptop_e.jpg
+  artifactKey: Guid(4eeae465dee0b8a4194a3f390bf49602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop_e.jpg using Guid(4eeae465dee0b8a4194a3f390bf49602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa26edcdef7aca522e81124c30a8f0f3') in 0.028237 seconds
+  Import took 0.030814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Laptop/laptop.prefab
+  artifactKey: Guid(d95dfe9eeea7731489064565a2d8b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop.prefab using Guid(d95dfe9eeea7731489064565a2d8b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db70fe23f06612a20268b6ce0db14526') in 0.270607 seconds
+  Import took 0.277910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Laptop/laptop_ao.tga
+  artifactKey: Guid(26156147a2ed42744a03b6f5c1ca0499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop_ao.tga using Guid(26156147a2ed42744a03b6f5c1ca0499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e00230d5a21a650efa5b6f2a7649ff7') in 0.042886 seconds
+  Import took 0.046624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Laptop/laptop_s.tga
+  artifactKey: Guid(356f2bc3a03d6b3448768ab986a926b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop_s.tga using Guid(356f2bc3a03d6b3448768ab986a926b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa055e77799f3fc2faa35b199639c7d6') in 0.036043 seconds
+  Import took 0.039830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Laptop/laptop_n.tga
+  artifactKey: Guid(7349e76c837a33e42a61a654719f1045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop_n.tga using Guid(7349e76c837a33e42a61a654719f1045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd162c6943289062b201f06e37f377af5') in 0.039182 seconds
+  Import took 0.042772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Laptop/laptop.mat
+  artifactKey: Guid(54c38eb35b5848443a34928936331d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop.mat using Guid(54c38eb35b5848443a34928936331d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0319eef06b9889b397ebf2f7796e2f47') in 0.135703 seconds
+  Import took 0.143324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Laptop/laptop_mask.tga
+  artifactKey: Guid(0a5a7b5309c68f14e9fa2c43fadc92fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Laptop/laptop_mask.tga using Guid(0a5a7b5309c68f14e9fa2c43fadc92fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3bf09257068acf33f1b79a8825b1a2') in 0.010767 seconds
+  Import took 0.013252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.972840 seconds.
+  path: Assets/Lamp Assets/Prefabs/Cabinet.prefab
+  artifactKey: Guid(67e2cb687ba4afc4ca227ab5848aeb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lamp Assets/Prefabs/Cabinet.prefab using Guid(67e2cb687ba4afc4ca227ab5848aeb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a17deff8c2508dc36527278108507a') in 0.361502 seconds
+  Import took 0.364296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Lamp Assets/Prefabs/Lamp.prefab
+  artifactKey: Guid(b69799b6680a89d468a5de91640dd387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lamp Assets/Prefabs/Lamp.prefab using Guid(b69799b6680a89d468a5de91640dd387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21164b034efa3d8b9b7bbd21b1be567d') in 0.017467 seconds
+  Import took 0.020131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042959 seconds.
+  path: Assets/Lamp Assets/Objects/Cabinet.fbx
+  artifactKey: Guid(164a6abc0b8f3e2478daf8b5a0a5c155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lamp Assets/Objects/Cabinet.fbx using Guid(164a6abc0b8f3e2478daf8b5a0a5c155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '815c2ef8812c2de760c31ae77606b418') in 0.061867 seconds
+  Import took 0.065095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Lamp Assets/Objects/Lamp.fbx
+  artifactKey: Guid(0882de763878e434883f657c2758a22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lamp Assets/Objects/Lamp.fbx using Guid(0882de763878e434883f657c2758a22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24923374c8dd9c09d4f437011d19864') in 0.063698 seconds
+  Import took 0.066623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Lamp Assets/Objects/Walls_and_floor.fbx
+  artifactKey: Guid(d5bcaf87fb17aa343a2e7a9ad0c46222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lamp Assets/Objects/Walls_and_floor.fbx using Guid(d5bcaf87fb17aa343a2e7a9ad0c46222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4bd154dcd6cf67181e241c13a575f48') in 0.028408 seconds
+  Import took 0.031076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001713 seconds.
+  path: Assets/Lamp Assets/Objects/Walls_and_floor.fbx
+  artifactKey: Guid(d5bcaf87fb17aa343a2e7a9ad0c46222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lamp Assets/Objects/Walls_and_floor.fbx using Guid(d5bcaf87fb17aa343a2e7a9ad0c46222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4bd154dcd6cf67181e241c13a575f48') in 0.025859 seconds
+  Import took 0.028835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.392808 seconds.
+  path: Assets/small_town_america/general/materials/barricades_carstop_m.mat
+  artifactKey: Guid(0275d66964101f6429849c355bb6e60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/barricades_carstop_m.mat using Guid(0275d66964101f6429849c355bb6e60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0932cc6885051cecaf286c6594824cab') in 0.196451 seconds
+  Import took 0.199317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/small_town_america/general/materials/general_damage_ground_3.mat
+  artifactKey: Guid(129652381c86db2459456da26e024f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/general_damage_ground_3.mat using Guid(129652381c86db2459456da26e024f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41ff6ee4df7e2ebfaabe1c11406d618') in 0.196413 seconds
+  Import took 0.199079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/small_town_america/general/materials/general_flagpole_m.mat
+  artifactKey: Guid(19c2479f4ac57894e9205d9238d25ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/general_flagpole_m.mat using Guid(19c2479f4ac57894e9205d9238d25ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1cf94c704c99449d7274dbbdd3eb27') in 0.027837 seconds
+  Import took 0.030480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/small_town_america/general/materials/road_signs_pole.mat
+  artifactKey: Guid(d4b079e98d5b6f84f92664190ef95721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/road_signs_pole.mat using Guid(d4b079e98d5b6f84f92664190ef95721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f998d386886e588c604478e6b762c84') in 0.202765 seconds
+  Import took 0.205425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/small_town_america/general/materials/general_damage_ground_2.mat
+  artifactKey: Guid(18d1070a4339b1648b99809e0cb962a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/general_damage_ground_2.mat using Guid(18d1070a4339b1648b99809e0cb962a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7b7e82404f5ef93fe7fa6a21469cf9') in 0.015054 seconds
+  Import took 0.017494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/small_town_america/general/materials/street_pavement.mat
+  artifactKey: Guid(db31076ba1760ef4f9c335f799c085ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/street_pavement.mat using Guid(db31076ba1760ef4f9c335f799c085ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58b363be8bfacdbbba71c7b7c96d655') in 0.023971 seconds
+  Import took 0.026762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/small_town_america/general/materials/street_decal_2.mat
+  artifactKey: Guid(029674896a135ef4180cfe29a7239a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/street_decal_2.mat using Guid(029674896a135ef4180cfe29a7239a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41de4aeb9d90cbdc0fae900cef465d2a') in 0.017441 seconds
+  Import took 0.020105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/small_town_america/general/materials/sidewalk_markings.mat
+  artifactKey: Guid(c1ee70dfa8eaa764cac686b842614f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/sidewalk_markings.mat using Guid(c1ee70dfa8eaa764cac686b842614f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83857fa3cc5e4b2e3b40f2322187eb83') in 0.022597 seconds
+  Import took 0.025128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/small_town_america/general/materials/general_rope_flag_m.mat
+  artifactKey: Guid(5391500aea8116749abe517b3f51b3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/general_rope_flag_m.mat using Guid(5391500aea8116749abe517b3f51b3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e34ba611ebe7ac4940c72152cec9b9df') in 0.012142 seconds
+  Import took 0.014953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/small_town_america/general/materials/general_damage_ground_1.mat
+  artifactKey: Guid(f73cff647ed4f264bb55f23ca72992bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/general_damage_ground_1.mat using Guid(f73cff647ed4f264bb55f23ca72992bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a19fbbef0fe71f40cca82e97b5fea8') in 0.022408 seconds
+  Import took 0.024797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/small_town_america/general/materials/general_flag_m.mat
+  artifactKey: Guid(5109fdd91840ac040b590a1e77e2638a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/general_flag_m.mat using Guid(5109fdd91840ac040b590a1e77e2638a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6876e3146be1e4f246e938ee55704b') in 0.019095 seconds
+  Import took 0.021397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/small_town_america/general/materials/road_signs.mat
+  artifactKey: Guid(ebabcc09fc1d6024d8fbea921ac77f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/road_signs.mat using Guid(ebabcc09fc1d6024d8fbea921ac77f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9438b57c516488e4d71bfa5c9fa392e') in 0.029999 seconds
+  Import took 0.032653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/small_town_america/general/materials/street_decal_1.mat
+  artifactKey: Guid(d55b3e2f2cf80e043bf357b57846ef9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/street_decal_1.mat using Guid(d55b3e2f2cf80e043bf357b57846ef9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e029694552a192d17b947ce8c398251') in 0.014262 seconds
+  Import took 0.017199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004344 seconds.
+  path: Assets/small_town_america/general/materials/street_decal_1.mat
+  artifactKey: Guid(d55b3e2f2cf80e043bf357b57846ef9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/materials/street_decal_1.mat using Guid(d55b3e2f2cf80e043bf357b57846ef9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e029694552a192d17b947ce8c398251') in 0.015126 seconds
+  Import took 0.017586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.259590 seconds.
+  path: Assets/small_town_america/general/models/barricades_carstop/general_barricades_carstop_double.fbx
+  artifactKey: Guid(6fbecf3ba8915114eaf9d21ffe90e8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/barricades_carstop/general_barricades_carstop_double.fbx using Guid(6fbecf3ba8915114eaf9d21ffe90e8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303439f3e9bca46ab55b9b1e7a603261') in 0.019164 seconds
+  Import took 0.022190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/small_town_america/general/models/barricades_carstop/general_barricades_carstop_single.fbx
+  artifactKey: Guid(516d43315fd257843800978827a40628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/barricades_carstop/general_barricades_carstop_single.fbx using Guid(516d43315fd257843800978827a40628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feef24e3fd9f2d08c6aa01b5c6b3eb3c') in 0.022280 seconds
+  Import took 0.025105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.489755 seconds.
+  path: Assets/small_town_america/general/models/flagpole/general_flag.fbx
+  artifactKey: Guid(77f9cf8346c32b54996321eafed66066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/flagpole/general_flag.fbx using Guid(77f9cf8346c32b54996321eafed66066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c697cd5f027d10aceb52581b611cd99') in 0.019714 seconds
+  Import took 0.022712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/small_town_america/general/models/flagpole/general_flagpole.fbx
+  artifactKey: Guid(a2412f1d3f5e0354aa2d7986bbac22fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/flagpole/general_flagpole.fbx using Guid(a2412f1d3f5e0354aa2d7986bbac22fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2774e7dd5110788ed583fe87d30bae02') in 0.026502 seconds
+  Import took 0.028780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/small_town_america/general/models/flagpole/general_rope_flag.fbx
+  artifactKey: Guid(df67c2e4df7bed844aacd042adff0331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/flagpole/general_rope_flag.fbx using Guid(df67c2e4df7bed844aacd042adff0331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577ed3fc419ab919da60606d1b631b0b') in 0.016001 seconds
+  Import took 0.018367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.617008 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_1.fbx
+  artifactKey: Guid(9d7328fd0c6644845987fbfafe10b318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_1.fbx using Guid(9d7328fd0c6644845987fbfafe10b318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afd3a427e96685a90aef92fbd9a6a66') in 0.026187 seconds
+  Import took 0.029365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_27.fbx
+  artifactKey: Guid(a7ae8687f058d7a4e80820fcb020f8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_27.fbx using Guid(a7ae8687f058d7a4e80820fcb020f8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83df498ca8464efa8f1a05708496ceb') in 0.030169 seconds
+  Import took 0.032968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_17.fbx
+  artifactKey: Guid(0360cf2c56d61794590fa26293345e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_17.fbx using Guid(0360cf2c56d61794590fa26293345e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2df15d298c9b7dbdcfb8178ed9d15cc') in 0.029855 seconds
+  Import took 0.033050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_25.fbx
+  artifactKey: Guid(dfa1b2814ab0bbc4aaac902fb9bfabdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_25.fbx using Guid(dfa1b2814ab0bbc4aaac902fb9bfabdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764a200235abe4e8a50f87d17c0e1c9a') in 0.027278 seconds
+  Import took 0.030440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_29.fbx
+  artifactKey: Guid(b56ed8c4e6dee0341972899d539d0453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_29.fbx using Guid(b56ed8c4e6dee0341972899d539d0453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9cc7e12dc484c7ebdffdba4b92160e') in 0.029035 seconds
+  Import took 0.031810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_19.fbx
+  artifactKey: Guid(7dd0287384f4ac34cb48f27dcbb87d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_19.fbx using Guid(7dd0287384f4ac34cb48f27dcbb87d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b342a56b5b62850a1ce2394f5b659926') in 0.027560 seconds
+  Import took 0.030766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_10.fbx
+  artifactKey: Guid(d69aa20486dd1404ea2fce632637adaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_10.fbx using Guid(d69aa20486dd1404ea2fce632637adaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a3b239851e83e404c21b38e883d565') in 0.026856 seconds
+  Import took 0.029647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_20.fbx
+  artifactKey: Guid(598da62601bf94144813fa0a9b2e8732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_20.fbx using Guid(598da62601bf94144813fa0a9b2e8732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc795d26a2307d5a91c25a29605cd6b2') in 0.026553 seconds
+  Import took 0.029269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_22.fbx
+  artifactKey: Guid(79ab74703b5a2f941969ca294dc226d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_22.fbx using Guid(79ab74703b5a2f941969ca294dc226d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '654bcf4fb08c6656d414b5c1c549074d') in 0.028651 seconds
+  Import took 0.031810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_21.fbx
+  artifactKey: Guid(0528c0eca05a1064f800c966e89bff78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_21.fbx using Guid(0528c0eca05a1064f800c966e89bff78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77267067319bd5e5b21c4ec7e49a49da') in 0.028348 seconds
+  Import took 0.031544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_28.fbx
+  artifactKey: Guid(7eb5941b51186d7409e0f95787076918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_28.fbx using Guid(7eb5941b51186d7409e0f95787076918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25baed8a74d3d21dd3f4df88459fbb0') in 0.028895 seconds
+  Import took 0.032028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_14.fbx
+  artifactKey: Guid(104aa4695a2e800439777d41bfd08b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_14.fbx using Guid(104aa4695a2e800439777d41bfd08b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f237d4a20d2b860798362ab5f30f9ff3') in 0.028577 seconds
+  Import took 0.031804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_6.fbx
+  artifactKey: Guid(ac7a0ab756920d1438f5ce5b25ab165e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_6.fbx using Guid(ac7a0ab756920d1438f5ce5b25ab165e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2653d90427f9240976912bd2e289adbf') in 0.027929 seconds
+  Import took 0.030709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_9.fbx
+  artifactKey: Guid(eb9db63ed461f6a4b9cc985afbe1936a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_9.fbx using Guid(eb9db63ed461f6a4b9cc985afbe1936a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a1820191b71318db2665a43eba7834') in 0.031492 seconds
+  Import took 0.034335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_15.fbx
+  artifactKey: Guid(769fe886c4ed60744b4ad3548891e8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_15.fbx using Guid(769fe886c4ed60744b4ad3548891e8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fe0800b9f5cf684479c417e6785ef2') in 0.029082 seconds
+  Import took 0.031905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_13.fbx
+  artifactKey: Guid(457d52532a715f14faf19ad12d32cc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_13.fbx using Guid(457d52532a715f14faf19ad12d32cc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d84ed21a88fb0708922fe4b5370c193') in 0.028263 seconds
+  Import took 0.031518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_26.fbx
+  artifactKey: Guid(0cd47526bc4a1974997ec709060fa6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_26.fbx using Guid(0cd47526bc4a1974997ec709060fa6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943267ff3c0fc6a413727f3728971f95') in 0.028434 seconds
+  Import took 0.031588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_18.fbx
+  artifactKey: Guid(c166b447eedbd52488c9bee249006f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_18.fbx using Guid(c166b447eedbd52488c9bee249006f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531a1e9645bf66eee02444a63429e55c') in 0.027797 seconds
+  Import took 0.030953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_30.fbx
+  artifactKey: Guid(ac9cb3db4b496c041a6c181e0d0b3133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_30.fbx using Guid(ac9cb3db4b496c041a6c181e0d0b3133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56e3c7a1e44dfebbb4ced4702a256e6') in 0.028395 seconds
+  Import took 0.031290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_2.fbx
+  artifactKey: Guid(d06923438acd0c043a55ba9b7d82ec2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_2.fbx using Guid(d06923438acd0c043a55ba9b7d82ec2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442c119229f6211a18dd6e6c0ed3d7c2') in 0.027990 seconds
+  Import took 0.030780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_12.fbx
+  artifactKey: Guid(5c2f06bd1041bdd4a9fb87e66980a777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_12.fbx using Guid(5c2f06bd1041bdd4a9fb87e66980a777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f31eb89f4670a5ac7a2d934b251301') in 0.029303 seconds
+  Import took 0.032407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_pole.fbx
+  artifactKey: Guid(90b75e776992f7048815cf83acb663cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_pole.fbx using Guid(90b75e776992f7048815cf83acb663cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79998d8f2da23e59ba9f134121fb9e6e') in 0.016274 seconds
+  Import took 0.018711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_31.fbx
+  artifactKey: Guid(230eb8780f4c76d489c2a6508a4a4ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_31.fbx using Guid(230eb8780f4c76d489c2a6508a4a4ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addd3156d22d480278af3c49db2ab65b') in 0.029094 seconds
+  Import took 0.032310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_3.fbx
+  artifactKey: Guid(c8e308afd6ef71b4592441cc4d0d2db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_3.fbx using Guid(c8e308afd6ef71b4592441cc4d0d2db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfd3447dfdab6ea3b243cf3d56c3fa6a') in 0.029325 seconds
+  Import took 0.032473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_5.fbx
+  artifactKey: Guid(091f556825424184fafe43e2c115a8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_5.fbx using Guid(091f556825424184fafe43e2c115a8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1176e540892dbddd62fc35f76fe395') in 0.028529 seconds
+  Import took 0.031239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_4.fbx
+  artifactKey: Guid(061345ac31783db44b7e87caa346c786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_4.fbx using Guid(061345ac31783db44b7e87caa346c786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282c1244cfac339a48ea6ea820b36a32') in 0.028096 seconds
+  Import took 0.031174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_11.fbx
+  artifactKey: Guid(e932272710c892a48bea05921b3baa0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_11.fbx using Guid(e932272710c892a48bea05921b3baa0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023de1a1ef7c6061354d7c896b55c5ad') in 0.028527 seconds
+  Import took 0.031351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_7.fbx
+  artifactKey: Guid(b6b9d527bb0363643a42edce416eb2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_7.fbx using Guid(b6b9d527bb0363643a42edce416eb2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883860c5baf1c800244f7db7dbb10399') in 0.027446 seconds
+  Import took 0.030140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_8.fbx
+  artifactKey: Guid(9b4fd35a4a40ace49a00d1107117a00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_8.fbx using Guid(9b4fd35a4a40ace49a00d1107117a00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '526c26657094fbbdc53610505091570e') in 0.028343 seconds
+  Import took 0.031523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_16.fbx
+  artifactKey: Guid(d551521eafaea4d478f9a0e859255a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_16.fbx using Guid(d551521eafaea4d478f9a0e859255a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab3b17c42785b4b9ab415bab125d54b') in 0.028885 seconds
+  Import took 0.032200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_24.fbx
+  artifactKey: Guid(ce0f99735067e7b4ba6b2c9b01715767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_24.fbx using Guid(ce0f99735067e7b4ba6b2c9b01715767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53c1694a534a490171552e5a23a6d31') in 0.028799 seconds
+  Import took 0.031713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/small_town_america/general/models/road_signs/general_road_signs_23.fbx
+  artifactKey: Guid(98eef02ae5e39ec44a02925017a35340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/road_signs/general_road_signs_23.fbx using Guid(98eef02ae5e39ec44a02925017a35340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849d7aab42dc6064acae703e06920b16') in 0.027678 seconds
+  Import took 0.030640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.185129 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/AirFryer.fbx
+  artifactKey: Guid(fa17e2793e3579542973f014c87702a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/AirFryer.fbx using Guid(fa17e2793e3579542973f014c87702a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f66d292624d27c4584e3e7dffb3db2e') in 0.016982 seconds
+  Import took 0.019897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Fridge.fbx
+  artifactKey: Guid(7791aa6beaaa15148b5287a0538526d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Fridge.fbx using Guid(7791aa6beaaa15148b5287a0538526d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948b7246dda9a4fa89ff6855182c67bb') in 0.016011 seconds
+  Import took 0.018533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Mixer.fbx
+  artifactKey: Guid(d18450aa2239d6748a7bcc1dacb1c80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Mixer.fbx using Guid(d18450aa2239d6748a7bcc1dacb1c80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15e04aac9402a81c63aa768f97a1d047') in 0.017824 seconds
+  Import took 0.020372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/FridgeSBS.fbx
+  artifactKey: Guid(b37603f8ea8ba83489df2180bfd8eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/FridgeSBS.fbx using Guid(b37603f8ea8ba83489df2180bfd8eef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b81facd58491ebf8243f1ed3c374ea1') in 0.018632 seconds
+  Import took 0.020915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/FanV2.fbx
+  artifactKey: Guid(c77e880e4f8b4c14a9a7d8350f9d0ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/FanV2.fbx using Guid(c77e880e4f8b4c14a9a7d8350f9d0ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed9bb6d94d673d811f211413e34d642') in 0.018357 seconds
+  Import took 0.021461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Washer.fbx
+  artifactKey: Guid(f1da24e6f87f419458e1913c5a2fe03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Washer.fbx using Guid(f1da24e6f87f419458e1913c5a2fe03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f424b9e4138b3f2efd628a53d6ff04ac') in 0.020696 seconds
+  Import took 0.023029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Fan.fbx
+  artifactKey: Guid(0bf0e70a8bd45044eaa51b5387ba5c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Fan.fbx using Guid(0bf0e70a8bd45044eaa51b5387ba5c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d224cb44fa0269d4c5fc3a03e06a73c') in 0.018781 seconds
+  Import took 0.021445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/MicrowaveOven.fbx
+  artifactKey: Guid(807f34e713b77474fa0b0cca977debae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/MicrowaveOven.fbx using Guid(807f34e713b77474fa0b0cca977debae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f28f6462022028d1332d6baca99d65e') in 0.017167 seconds
+  Import took 0.020060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Stove.fbx
+  artifactKey: Guid(6a4e254c0b0d9214ea7b53f9c0c43b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Stove.fbx using Guid(6a4e254c0b0d9214ea7b53f9c0c43b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc867c3931d142abb2102cbd86719fb3') in 0.018583 seconds
+  Import took 0.021136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/CoffeeMaker.fbx
+  artifactKey: Guid(3241337d8654d9642b6e1340cb70c2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/CoffeeMaker.fbx using Guid(3241337d8654d9642b6e1340cb70c2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b05a0861b4a80108a533822405ea92') in 0.015766 seconds
+  Import took 0.018327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Dryer.fbx
+  artifactKey: Guid(ea74eb1c1df4df74eb289c8040ea5b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Dryer.fbx using Guid(ea74eb1c1df4df74eb289c8040ea5b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1beba5ee04bed5335f3514fe8acc1a1b') in 0.021169 seconds
+  Import took 0.024063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Alstrainfinite/KitchenAppliances/Models/Stovetop.fbx
+  artifactKey: Guid(01bb90b911a563f4997a757b1861c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstrainfinite/KitchenAppliances/Models/Stovetop.fbx using Guid(01bb90b911a563f4997a757b1861c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681dd2523e03e11f88ddc96e86edf8b5') in 0.023415 seconds
+  Import took 0.025771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.840135 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_3_way_no_markings.fbx
+  artifactKey: Guid(a59e957ec778e414ca2e08aafb2a2817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_3_way_no_markings.fbx using Guid(a59e957ec778e414ca2e08aafb2a2817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80af5d69b6f9d31970b20d6f98713ad4') in 0.026490 seconds
+  Import took 0.029373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_straight_no_markings.fbx
+  artifactKey: Guid(e77c4602354e0354baffa6967d57b0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_straight_no_markings.fbx using Guid(e77c4602354e0354baffa6967d57b0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7e2ce5c64f07f418439dfa3cbdb5bd') in 0.025621 seconds
+  Import took 0.028368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_straight_no_sidewalk_long.fbx
+  artifactKey: Guid(af737ec27fbf0af43acdb172eda053c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_straight_no_sidewalk_long.fbx using Guid(af737ec27fbf0af43acdb172eda053c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85224bb90b6fe5bd0d2046306d725091') in 0.036314 seconds
+  Import took 0.039507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_3_way_no_sidewalk.fbx
+  artifactKey: Guid(dde7cc19a36f955469bb3fff3f2d29ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_3_way_no_sidewalk.fbx using Guid(dde7cc19a36f955469bb3fff3f2d29ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10f0b9b127aa510d756c065606262f1') in 0.036582 seconds
+  Import took 0.040046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_straight_w_sidewalk.fbx
+  artifactKey: Guid(b3d4034243f222040b4d93939101cfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_straight_w_sidewalk.fbx using Guid(b3d4034243f222040b4d93939101cfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2924b365d84bf001d6228de8d5b45236') in 0.036591 seconds
+  Import took 0.040212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_3_way_w_sidewalk.fbx
+  artifactKey: Guid(9b46016993158d545b5021d3928c0969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_3_way_w_sidewalk.fbx using Guid(9b46016993158d545b5021d3928c0969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d8702432be4af689f261b66d3ae3ec') in 0.037703 seconds
+  Import took 0.041299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_crossing_w_sidewalk.fbx
+  artifactKey: Guid(321883f7aba6cbb4488b5f2c40654ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_crossing_w_sidewalk.fbx using Guid(321883f7aba6cbb4488b5f2c40654ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5935941d75f25adcc38f5179b80f23') in 0.036107 seconds
+  Import took 0.039377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_crossing_no_sidewalk.fbx
+  artifactKey: Guid(8084eb7b4b8d132469f790551235bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_crossing_no_sidewalk.fbx using Guid(8084eb7b4b8d132469f790551235bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52bc1bb1c9a01763bfd1d98166b5357') in 0.035977 seconds
+  Import took 0.039603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_crossing_no_markings.fbx
+  artifactKey: Guid(89ddfff65d6074a41a2f3f1b7c8bc51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_crossing_no_markings.fbx using Guid(89ddfff65d6074a41a2f3f1b7c8bc51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b50ac6ec0dbf84cb93bebd67d6d1b74') in 0.025288 seconds
+  Import took 0.027948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_corner_no_markings.fbx
+  artifactKey: Guid(d90e442b51080d64a8336d227d26269e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_corner_no_markings.fbx using Guid(d90e442b51080d64a8336d227d26269e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d0be9c9626e80cfc04705afc7eb09d') in 0.025667 seconds
+  Import took 0.028579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_corner_no_sidewalk.fbx
+  artifactKey: Guid(5c0b1057a51cdfe4f9d0e32b147efb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_corner_no_sidewalk.fbx using Guid(5c0b1057a51cdfe4f9d0e32b147efb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f738086d4a964b41e7ea723296ab7ab1') in 0.034788 seconds
+  Import took 0.038024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_straight_no_markings_long.fbx
+  artifactKey: Guid(3c46e1ca4159f7e468d5b7472a3793e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_straight_no_markings_long.fbx using Guid(3c46e1ca4159f7e468d5b7472a3793e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fc5594e965b5cd03460ed53ea735e5') in 0.024325 seconds
+  Import took 0.027019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_corner_w_sidewalk.fbx
+  artifactKey: Guid(b687ca93b41e3864e8ccd86645ef1adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_corner_w_sidewalk.fbx using Guid(b687ca93b41e3864e8ccd86645ef1adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aeb7aefa1daabc2a7f69223b762308d') in 0.037902 seconds
+  Import took 0.041475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_straight_w_sidewalk_long.fbx
+  artifactKey: Guid(0656a7e5759ccaf40a463b72bbf3a345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_straight_w_sidewalk_long.fbx using Guid(0656a7e5759ccaf40a463b72bbf3a345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcefa4aebb88d4874072830f1f34016') in 0.038043 seconds
+  Import took 0.041484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/small_town_america/general/models/street/general_street_straight_no_sidewalk.fbx
+  artifactKey: Guid(c24014bb2573314439344bb71ce5ef2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/small_town_america/general/models/street/general_street_straight_no_sidewalk.fbx using Guid(c24014bb2573314439344bb71ce5ef2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ad596c2b6726cd8584620a8203c354') in 0.036315 seconds
+  Import took 0.039500 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
