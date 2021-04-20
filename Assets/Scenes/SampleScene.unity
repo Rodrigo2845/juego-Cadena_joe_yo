@@ -134,12 +134,12 @@ PrefabInstance:
     - target: {fileID: 5916560402595816505, guid: e57a10b1c9016b742a3084e52be77b80,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer3B
+      value: casa 6
       objectReference: {fileID: 0}
     - target: {fileID: 7147835218200755565, guid: e57a10b1c9016b742a3084e52be77b80,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7147835218200755565, guid: e57a10b1c9016b742a3084e52be77b80,
         type: 3}
@@ -213,15 +213,15 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1000964566}
     m_Modifications:
     - target: {fileID: 100000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_Name
-      value: general_street_straight_no_sidewalk_long
+      value: calle 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalScale.y
@@ -229,27 +229,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.6192384
+      value: -0.005762577
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1
+      value: 37.63497
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -35.67
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071067
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.z
@@ -355,12 +355,12 @@ PrefabInstance:
     - target: {fileID: 5916560402595816505, guid: e57a10b1c9016b742a3084e52be77b80,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer3B (1)
+      value: casa 7
       objectReference: {fileID: 0}
     - target: {fileID: 7147835218200755565, guid: e57a10b1c9016b742a3084e52be77b80,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7147835218200755565, guid: e57a10b1c9016b742a3084e52be77b80,
         type: 3}
@@ -464,15 +464,15 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1000964566}
     m_Modifications:
     - target: {fileID: 100000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_Name
-      value: general_street_straight_no_sidewalk_long (1)
+      value: calle 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalScale.y
@@ -480,27 +480,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.6192384
+      value: -0.005762577
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1
+      value: -37.935013
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 39.9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071067
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.z
@@ -605,12 +605,12 @@ PrefabInstance:
     - target: {fileID: 2717404122144484978, guid: d18575db84348924490b1cafa3686243,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer1 (2)
+      value: casa 10
       objectReference: {fileID: 0}
     - target: {fileID: 2717404122144484979, guid: d18575db84348924490b1cafa3686243,
         type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 2717404122144484979, guid: d18575db84348924490b1cafa3686243,
         type: 3}
@@ -734,15 +734,15 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1000964566}
     m_Modifications:
     - target: {fileID: 100000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_Name
-      value: general_street_straight_no_sidewalk_long (2)
+      value: calle 2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalScale.y
@@ -750,31 +750,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -114.3
+      value: -109.68652
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1
+      value: -0.045022722
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.50008726
+      value: 0.70710677
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.49991274
+      value: 0.00012344122
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.50008726
+      value: 0.00012332201
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.49991274
+      value: 0.70710677
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -795,47 +795,47 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1000964566}
     m_Modifications:
     - target: {fileID: 100000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_Name
-      value: general_street_straight_no_sidewalk_long (3)
+      value: calle 4
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 4
+      value: 6.500001
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 57.1
+      value: 91.01347
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1
+      value: -0.045022722
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.50008726
+      value: 0.70710677
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.49991274
+      value: 0.00012344122
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.50008726
+      value: 0.00012332201
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.49991274
+      value: 0.70710677
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: af737ec27fbf0af43acdb172eda053c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -945,7 +945,7 @@ Transform:
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &626868910
 PrefabInstance:
@@ -957,7 +957,7 @@ PrefabInstance:
     - target: {fileID: 1893486744694029556, guid: fe44196c5e4e1444db4df3069ca7c43e,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer2
+      value: casa 1
       objectReference: {fileID: 0}
     - target: {fileID: 1893486744694029563, guid: fe44196c5e4e1444db4df3069ca7c43e,
         type: 3}
@@ -1051,7 +1051,7 @@ PrefabInstance:
     - target: {fileID: 3101916222931584424, guid: 20dd690069cf4c647ac68f85a75d3694,
         type: 3}
       propertyPath: m_Name
-      value: GarageDetatchedVer1
+      value: casa 2
       objectReference: {fileID: 0}
     - target: {fileID: 8675492413645477980, guid: 20dd690069cf4c647ac68f85a75d3694,
         type: 3}
@@ -1243,12 +1243,12 @@ PrefabInstance:
     - target: {fileID: 3101916222931584424, guid: 20dd690069cf4c647ac68f85a75d3694,
         type: 3}
       propertyPath: m_Name
-      value: GarageDetatchedVer1 (1)
+      value: casa 9
       objectReference: {fileID: 0}
     - target: {fileID: 8675492413645477980, guid: 20dd690069cf4c647ac68f85a75d3694,
         type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 8675492413645477980, guid: 20dd690069cf4c647ac68f85a75d3694,
         type: 3}
@@ -1428,11 +1428,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8084eb7b4b8d132469f790551235bc92, type: 3}
       propertyPath: m_Name
-      value: general_street_crossing_no_sidewalk
+      value: cruce de calle
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8084eb7b4b8d132469f790551235bc92, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8084eb7b4b8d132469f790551235bc92, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1476,6 +1476,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8084eb7b4b8d132469f790551235bc92, type: 3}
+--- !u!4 &1000964566 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 8084eb7b4b8d132469f790551235bc92,
+    type: 3}
+  m_PrefabInstance: {fileID: 1000964565}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1045848415
 GameObject:
   m_ObjectHideFlags: 0
@@ -1532,7 +1538,7 @@ PrefabInstance:
     - target: {fileID: 5269844539741980745, guid: 914761b82962bf0468c45833469bb498,
         type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5269844539741980745, guid: 914761b82962bf0468c45833469bb498,
         type: 3}
@@ -1632,7 +1638,7 @@ PrefabInstance:
     - target: {fileID: 8650238013510914333, guid: 914761b82962bf0468c45833469bb498,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer3A (1)
+      value: casa 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 914761b82962bf0468c45833469bb498, type: 3}
@@ -1646,7 +1652,7 @@ PrefabInstance:
     - target: {fileID: 2717404122144484978, guid: d18575db84348924490b1cafa3686243,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer1
+      value: casa 3
       objectReference: {fileID: 0}
     - target: {fileID: 2717404122144484979, guid: d18575db84348924490b1cafa3686243,
         type: 3}
@@ -1800,7 +1806,7 @@ PrefabInstance:
     - target: {fileID: 8650238013510914333, guid: 914761b82962bf0468c45833469bb498,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer3A
+      value: casa 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 914761b82962bf0468c45833469bb498, type: 3}
@@ -1853,7 +1859,7 @@ Transform:
   - {fileID: 541096546}
   - {fileID: 1728657556}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1728657555
 GameObject:
@@ -1915,12 +1921,12 @@ PrefabInstance:
     - target: {fileID: 2717404122144484978, guid: d18575db84348924490b1cafa3686243,
         type: 3}
       propertyPath: m_Name
-      value: SuburbanHouseVer1 (1)
+      value: casa 4
       objectReference: {fileID: 0}
     - target: {fileID: 2717404122144484979, guid: d18575db84348924490b1cafa3686243,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2717404122144484979, guid: d18575db84348924490b1cafa3686243,
         type: 3}
